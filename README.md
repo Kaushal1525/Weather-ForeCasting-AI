@@ -1,3 +1,4 @@
+
 🌤️ Weather Temperature Prediction using Decision Trees
 📌 About
 This project implements a Decision Tree Regression Model to predict daily temperatures based on weather conditions. The dataset includes temperature, humidity, wind speed, and weather conditions, and the model predicts temperature based on these factors.
@@ -17,3 +18,9 @@ Python
 Pandas & NumPy (Data Handling)
 Scikit-learn (Machine Learning)
 DecisionTreeRegressor (Model Training)# Weather-ForeCasting-AI
+
+Author
+
+Kaushal Jammula
+
+Graduate | Former Vice President @Aprameya | Entrepreneur | Focused - Automotive Systems Specialist | Space Tech Enthusiast | Researcher | Emerging Tech Innovator| Engineering Beyond Limits
